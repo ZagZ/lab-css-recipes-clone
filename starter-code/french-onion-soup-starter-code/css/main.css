@@ -12,7 +12,7 @@ html {
 header {
   width: 100%;
   text-align: center;
-  background-image: url("/home/zagz/Ironhack/Day 1 HTML/lab-css-recipes-clone/starter-code/french-onion-soup-starter-code/images/soup.jpg");
+  background-image: url("/images/soup.jpg")
   height: 600px;;
   color: white;
   position: relative;
